@@ -5,6 +5,8 @@
 
 [资源](http://www.dmzshequ.com/thread-11324-1-1.html?_dsign=ea7bf7f5)
 
+[代码](https://github.com/ksky521/webpack-tutorial)
+
 
 	01、使用 Webpack 实现前端工程化.rar
 	02、什么是 Webpack.rar
