@@ -3,6 +3,8 @@
 
 [Webpack 从零入门到工程化实战——专栏](https://www.imooc.com/read/29)
 
+[《深入浅出webpack》](https://webpack.wuhaolin.cn/)
+
 [资源](http://www.dmzshequ.com/thread-11324-1-1.html?_dsign=ea7bf7f5)
 
 [代码](https://github.com/ksky521/webpack-tutorial)
